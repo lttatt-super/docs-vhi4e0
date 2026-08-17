@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-24lv6i.wakku.work/sitemap.xml
